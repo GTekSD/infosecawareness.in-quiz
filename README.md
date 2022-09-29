@@ -1,10 +1,12 @@
 # infosecawareness.in-quiz
 
-#### #### Q56. What?
+<!--- #### Q56. What?
 
-#### ![What?](images/007.png?raw=true)
+![What?](images/007.png?raw=true)
 
-#### - [ ] A
-#### - [ ] B
-#### - [x] C
-#### - [ ] D
+- [ ] A
+- [ ] B
+- [x] C
+- [ ] D
+
+ --->
