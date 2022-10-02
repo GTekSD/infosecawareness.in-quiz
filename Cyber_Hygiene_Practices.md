@@ -40,9 +40,9 @@ and spam emails.
 - [ ] File Encryption Software.
 
 #### Q8. How effective is one spam filter to protect your e-mail from all kind of malicious emails ?
-####  i. Spam emails may carry virus and attack your system through e-mail, so using a spam filter can protect your e-mail and also your system.
-####  ii. spam emails fills your inbox and make it difficult to find the genuine e-mails, spam tilter will reduce the spam e- mails and protect your email.
-####  iii. spam emails will block email bombing.
+i. Spam emails may carry virus and attack your system through e-mail, so using a spam filter can protect your e-mail and also your system.
+ii. spam emails fills your inbox and make it difficult to find the genuine e-mails, spam tilter will reduce the spam e- mails and protect your email.
+iii. spam emails will block email bombing.
 - [ ] option i
 - [ ] option ii and iii
 - [ ] option i and ii
