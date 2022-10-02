@@ -3,6 +3,7 @@
 - [ ] Virtual Protocol Network
 - [ ] Virtual Protocol Networking
 - [x] Virtual Private Network
+
 Explanation: A Virtual Private Network i.e. VPN is a technique used in networking or other intermediate networks for connecting computers and making them isolated remote computer networks, maintaining a tunnel of security and privacy.
 
 #### Q2. Which of them is not a proper meth0d for email security?
@@ -17,18 +18,21 @@ Note: More than 50 percent of people will click on an unknown link out of curios
 - [ ] antivirus, patches
 - [ ] genuine software, redirected malicious URLs
 - [ ] malware, security patches
+
 Explanation: Using email hacking illicit hackers can send & spread malware, trojans, virus, worms, redirected malicious URLs which can take the target recipients to some infected webpage also
 
 #### Q4. Secure Website signifies with?
 - [x] https://
 - [ ] a Grey Padlock(lock sign)
 - [ ] All of the mentioned, viruses, and spam emails.
+
 Explanation: A secure URL should begin with “https” rather than “http.” The “s” in “https” stands for secure, which indicates that the site is using a Secure Sockets Layer (SSL) Certificate. This lets you know that all your communication and data is encrypted as it passes from your browser to the website's server.
 
 #### Q5. Mysterious data usage spikes without any changes on your part, Your phone works slow. You notice something you don't recognize on your phone (e.g., apps you didn't download, messages you didn't send, purchases you didn't make, suspicious phone calls) what does all these warning signs indicate?
 - [x] your phone is hacked?
 - [ ] your phone is infected with malware
 - [ ] the device is faulty
+
 Explanation: https://nordvpn.com/blog/how-to-tell-if-your-phone-is-hacked/
 
 #### Q6. What are different ways that hackers can harm you if they know your phone number?
@@ -40,6 +44,7 @@ Explanation: https://nordvpn.com/blog/how-to-tell-if-your-phone-is-hacked/
 - [x] Self encrypting USB drives
 - [ ] Media Encryption Software
 - [ ] File Encryption Software.
+
 Explanation: Self Encrypting USB Drives are portable USB drives that embed encryption algorithms within the hard drive, thus eliminating the need to install any encryption software.
 
 #### Q8. How effective is one spam filter to protect your e-mail from all kind of malicious emails ?
@@ -67,6 +72,7 @@ Explanation: Self Encrypting USB Drives are portable USB drives that embed encry
 - [x] Disable Bluetooth and WiFi option.
 - [ ] Enable file sharing option
 - [ ] Both option2 and option3 must be followed
+
 Explanation: Airplane mode: A setting in which the device does not receive or transmit wireless signals and so does not interfere with the aircraft's communication systems.
 
 #### Q12. How to prevent unwanted purchases by clicking a few settings in each device's respective apps.
@@ -90,6 +96,7 @@ Explanation: Airplane mode: A setting in which the device does not receive or tr
 - [x] it can potentially damage your laptop.
 - [ ] it will not cause any damage
 - [ ] may be it may cause
+
 Explanation: Using a charger with the wrong voltage rating can potentially damage your laptop. This is typically caused by too high voltage. But using a charger with too high current won't damage your laptop.
 
 #### Q16. Wi-Fi connection is lost in the office and your colleague needs to send some urgent mail to the boss, so asks you to enable your mobile hotspot as his network is not reachable. Will you share your mobile's hotspot with your colleague with the password.
